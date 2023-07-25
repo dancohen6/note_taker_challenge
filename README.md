@@ -8,7 +8,9 @@
 [Questions](#questionslink)
 
 ## <a name="descriptionlink"></a>Description
-The Note-Taker app can be used to write and save notes. The application uses an Express.js back end and saves and retrieves note data from a JSON file.
+The Note-Taker app can be used to write and save notes. The application uses an Express.js back end and saves and retrieves note data from a JSON file. 
+
+I have added the functionality for note deletion.
 
 ## <a name="installlink"></a>Installation 
 To use the app, visit Heroku where it is deployed: [Note-Taker App](https://dashboard.heroku.com/apps/serene-wildwood-94841)

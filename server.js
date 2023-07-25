@@ -6,9 +6,9 @@ const {
   readFromFile,
   readAndAppend,
   writeToFile,
-} = require('./Test/fsUtils');
+} = require('./public/assets/js/fsUtils');
 const notes = require('./db/db.json');
-const uuid = require('./Test/uuid');
+const uuid = require('./public/assets/js/uuid');
 
 // CREATE EXPRESS APP / MIDDLEWARE CONFIG //
 const app = express();

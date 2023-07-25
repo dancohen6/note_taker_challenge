@@ -1,7 +1,12 @@
 [
-    {
-        "title": "Welcome to the Note Taker app!",
-        "text": "Here's how it works. Click the '+' and type in your note title and content. Once you have done so, click on the disk drive that appears in the top right to save!",
-        "id": "d0bb"
-    }
+	{
+		"title": "Welcome to the Note Taker app!",
+		"text": "Here's how it works. Click the '+' and type in your note title and content. Once you have done so, click on the disk drive that appears in the top right to save!",
+		"id": "d0bb"
+	},
+	{
+		"title": "Test",
+		"text": "Test",
+		"id": "fd22"
+	}
 ]
